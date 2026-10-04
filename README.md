@@ -5,6 +5,12 @@ It is designed for beginners who want to learn how to set up a virtual machine i
 
 ---
 
+## Video Tutorial
+
+- Watch here: [YouTube Video](https://www.youtube.com/watch?v=UvbWunuLTZA)
+
+---
+
 ## Prerequisites
 
 Before you start, make sure you have:
